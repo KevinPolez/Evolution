@@ -1,0 +1,1775 @@
+# depslib dependency file v1.0
+1515928503 source:c:\users\edd\git\evolution\src\barmenu.cpp
+	"evolution.h"
+	"Display.h"
+	"BarMenu.h"
+
+1514027521 c:\users\edd\git\evolution\include\barmenu.h
+	<Object.h>
+
+1518940939 c:\users\edd\git\evolution\include\object.h
+	<SDL2/SDL.h>
+	<list>
+	<map>
+	<functional>
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\close_code.h
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587623 c:\users\edd\git\evolution\lib\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1518177282 c:\users\edd\git\evolution\include\texturecollection.h
+	<SDL2/SDL.h>
+	<iostream>
+	<map>
+
+1518106343 c:\users\edd\git\evolution\include\point.h
+
+1518941296 source:c:\users\edd\git\evolution\src\board.cpp
+	"Board.h"
+	<math.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<sstream>
+	"Display.h"
+	"evolution.h"
+	"Color.h"
+	"HeightMap.h"
+	"WarmMap.h"
+	"HygroMap.h"
+	"CellGroup.h"
+	"Seed.h"
+	"Unit.h"
+
+1518941349 c:\users\edd\git\evolution\include\board.h
+	<SDL2/SDL.h>
+	"Object.h"
+	"Tile.h"
+	"TextureCollection.h"
+	"CellGroup.h"
+	"DialogBox.h"
+	<map>
+	<list>
+
+1518528471 c:\users\edd\git\evolution\include\tile.h
+	"Building.h"
+	"Unit.h"
+	<SDL2/SDL.h>
+
+1518178821 source:c:\users\edd\git\evolution\src\button.cpp
+	"Button.h"
+	"Display.h"
+	"evolution.h"
+	"Color.h"
+	<iostream>
+
+1518176877 c:\users\edd\git\evolution\include\button.h
+	<SDL2/SDL_ttf.h>
+	"Label.h"
+
+1516803376 c:\users\edd\git\evolution\include\label.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"Object.h"
+
+1394964472 c:\users\edd\git\evolution\lib\sdl2_ttf-2.0.12\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	<SDL2/SDL.h>
+	<SDL2/begin_code.h>
+	<SDL2/close_code.h>
+
+1518901542 source:c:\users\edd\git\evolution\src\evolution.cpp
+	"evolution.h"
+	"Display.h"
+	"Fps.h"
+	"ConfigGameState.h"
+	"GameState.h"
+	"MenuState.h"
+	"OptionState.h"
+	"IntroState.h"
+	<sstream>
+	<SDL2/SDL_mixer.h>
+	<cmath>
+
+1518900702 c:\users\edd\git\evolution\include\evolution.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<list>
+	"Board.h"
+	"Fps.h"
+	"TextureCollection.h"
+	"Object.h"
+	"Label.h"
+	"Menu.h"
+	"VerticalLayout.h"
+	"Button.h"
+	"Timelapse.h"
+	"ProgressBar.h"
+	"Animation.h"
+	"State.h"
+	"SoundCollection.h"
+
+1518599223 c:\users\edd\git\evolution\include\fps.h
+	<SDL2/SDL.h>
+
+1516802932 c:\users\edd\git\evolution\include\menu.h
+	"Object.h"
+
+1518529679 c:\users\edd\git\evolution\include\timelapse.h
+	<SDL2/SDL.h>
+	<map>
+	<functional>
+	<list>
+
+1390990447 c:\users\edd\git\evolution\lib\sdl2_image-2.0.0\include\sdl2\sdl_image.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_version.h"
+	"SDL2/begin_code.h"
+	"SDL2/close_code.h"
+
+1518599179 source:c:\users\edd\git\evolution\src\fps.cpp
+	"Fps.h"
+
+1518508970 source:c:\users\edd\git\evolution\src\label.cpp
+	"Label.h"
+	"Display.h"
+	"evolution.h"
+	"Color.h"
+	<stdio.h>
+	<iostream>
+
+1516867191 source:c:\users\edd\git\evolution\src\main.cpp
+	<windows.h>
+	<SDL2/SDL.h>
+	<evolution.h>
+
+1513080024 source:c:\users\edd\git\evolution\src\menu.cpp
+	"Menu.h"
+
+1518940959 source:c:\users\edd\git\evolution\src\object.cpp
+	"Object.h"
+	"Display.h"
+	"evolution.h"
+	<sstream>
+	<stdio.h>
+	<iostream>
+	<cmath>
+
+1394878379 source:c:\users\edd\git\evolution\src\point.cpp
+	"Point.h"
+
+1517819391 source:c:\users\edd\git\evolution\src\texturecollection.cpp
+	"TextureCollection.h"
+	"Display.h"
+	<map>
+
+1518528441 source:c:\users\edd\git\evolution\src\tile.cpp
+	"Tile.h"
+	<iostream>
+
+1518529697 source:c:\users\edd\git\evolution\src\timelapse.cpp
+	"Timelapse.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454362933 c:\users\edd\git\evolution\lib\sdl2_ttf-2.0.14\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772769 c:\users\edd\git\evolution\lib\sdl2_image-2.0.2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1512647848 c:\users\edd\git\evolution\include\resources.h
+
+1512646317 source:c:\users\edd\git\evolution\src\resources.rc
+	"Resources.h"
+
+1508787066 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1508787066 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508787066 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508787066 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787066 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787066 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787066 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787066 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508787066 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787066 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508787066 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787066 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787066 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787066 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508787066 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787066 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787066 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787066 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508787067 c:\users\edd\git\evolution\lib\sdl2-2.0.7\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454362947 c:\users\edd\git\evolution\lib\sdl2_ttf-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772791 c:\users\edd\git\evolution\lib\sdl2_image-2.0.2\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\begin_code.h
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\close_code.h
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454362933 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772769 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772768 c:\users\edd\git\evolution\lib\sdl2\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1516870938 source:c:\users\edd\git\evolution\src\progressbar.cpp
+	"ProgressBar.h"
+	"evolution.h"
+	"Display.h"
+
+1516802961 c:\users\edd\git\evolution\include\progressbar.h
+	"Object.h"
+
+1516970904 source:c:\users\edd\git\evolution\src\animation.cpp
+	"Animation.h"
+	"Display.h"
+	"evolution.h"
+
+1516803446 c:\users\edd\git\evolution\include\animation.h
+	"Object.h"
+
+1518528627 c:\users\edd\git\evolution\include\state.h
+	<SDL2/SDL.h>
+	"Object.h"
+
+1518528687 c:\users\edd\git\evolution\include\gamestate.h
+	"State.h"
+	"Board.h"
+	"Label.h"
+	"Menu.h"
+	"VerticalLayout.h"
+	"Button.h"
+	"ProgressBar.h"
+	"Timelapse.h"
+	"TextureCollection.h"
+	"DialogBox.h"
+	"HorizontalLayout.h"
+	"Unit.h"
+	"Building.h"
+
+1518528748 c:\users\edd\git\evolution\include\menustate.h
+	"State.h"
+	"VerticalLayout.h"
+	"Button.h"
+	"Label.h"
+	"Animation.h"
+	"ProgressBar.h"
+	"Timelapse.h"
+	"DialogBox.h"
+
+1518600527 source:c:\users\edd\git\evolution\src\gamestate.cpp
+	"GameState.h"
+	"Display.h"
+	"evolution.h"
+	"Color.h"
+	"Seed.h"
+	<sstream>
+
+1518528722 source:c:\users\edd\git\evolution\src\menustate.cpp
+	"MenuState.h"
+	"Display.h"
+	"evolution.h"
+	"Color.h"
+
+1518531693 source:c:\users\edd\git\evolution\src\state.cpp
+	<sstream>
+	<iostream>
+	"State.h"
+	"Display.h"
+	"evolution.h"
+
+1518528898 source:c:\users\edd\git\evolution\src\optionstate.cpp
+	"OptionState.h"
+	"Display.h"
+	"Color.h"
+	<iostream>
+
+1518528766 c:\users\edd\git\evolution\include\optionstate.h
+	"State.h"
+	"VerticalLayout.h"
+	"Button.h"
+	"Label.h"
+
+1518608999 source:c:\users\edd\git\evolution\src\display.cpp
+	"Display.h"
+	"evolution.h"
+	<SDL2/SDL_image.h>
+	<iostream>
+	<sstream>
+
+1518608933 c:\users\edd\git\evolution\include\display.h
+	<SDL2/SDL.h>
+	"TextureCollection.h"
+
+1518532409 source:c:\users\edd\git\evolution\src\dialogbox.cpp
+	"evolution.h"
+	"DialogBox.h"
+	"Display.h"
+	"Color.h"
+
+1518169059 c:\users\edd\git\evolution\include\dialogbox.h
+	"ObjectText.h"
+
+1516818448 c:\users\edd\git\evolution\include\verticallayout.h
+	<Object.h>
+
+1516873528 source:c:\users\edd\git\evolution\src\verticallayout.cpp
+	"evolution.h"
+	"Display.h"
+	"VerticalLayout.h"
+	"Color.h"
+
+1516963903 source:c:\users\edd\git\evolution\src\color.cpp
+	"Color.h"
+
+1516963888 c:\users\edd\git\evolution\include\color.h
+	<SDL2/SDL.h>
+
+1516697377 c:\users\edd\git\evolution\include\heightmap.h
+	"Map.h"
+
+1516811222 source:c:\users\edd\git\evolution\src\heightmap.cpp
+	"HeightMap.h"
+
+1518107248 c:\users\edd\git\evolution\include\cellgroup.h
+	"Tile.h"
+
+1518107674 source:c:\users\edd\git\evolution\src\cellgroup.cpp
+	"CellGroup.h"
+	"Display.h"
+
+1516697372 c:\users\edd\git\evolution\include\warmmap.h
+	"Map.h"
+
+1516705375 source:c:\users\edd\git\evolution\src\warmmap.cpp
+	"WarmMap.h"
+
+1516960053 c:\users\edd\git\evolution\include\map.h
+	<map>
+	<random>
+
+1516697366 c:\users\edd\git\evolution\include\hygromap.h
+	"Map.h"
+
+1516705834 source:c:\users\edd\git\evolution\src\hygromap.cpp
+	"HygroMap.h"
+
+1516960637 source:c:\users\edd\git\evolution\src\map.cpp
+	"Map.h"
+	"Seed.h"
+
+1517655193 c:\users\edd\git\evolution\include\horizontallayout.h
+	"Object.h"
+
+1518532725 source:c:\users\edd\git\evolution\src\horizontallayout.cpp
+	"HorizontalLayout.h"
+	"Color.h"
+	"evolution.h"
+	"Display.h"
+
+1518531575 source:c:\users\edd\git\evolution\src\configgamestate.cpp
+	"ConfigGameState.h"
+	"Button.h"
+	"InputText.h"
+	"VerticalLayout.h"
+	"HorizontalLayout.h"
+	"Display.h"
+	"Seed.h"
+	"Color.h"
+
+1518528737 c:\users\edd\git\evolution\include\configgamestate.h
+	"State.h"
+	"InputText.h"
+
+1518532205 c:\users\edd\git\evolution\include\inputtext.h
+	"Object.h"
+	<SDL2/SDL_ttf.h>
+
+1518532177 source:c:\users\edd\git\evolution\src\inputtext.cpp
+	"InputText.h"
+	"Color.h"
+	"Display.h"
+	"evolution.h"
+	<iostream>
+
+1516960205 c:\users\edd\git\evolution\include\seed.h
+
+1516960661 source:c:\users\edd\git\evolution\src\seed.cpp
+	"Seed.h"
+	<chrono>
+
+1518529046 c:\users\edd\git\evolution\include\introstate.h
+	"State.h"
+	"ScrollText.h"
+
+1518529038 source:c:\users\edd\git\evolution\src\introstate.cpp
+	"IntroState.h"
+	"Label.h"
+	"Color.h"
+	"Display.h"
+
+1517130390 c:\users\edd\git\evolution\include\scrolltext.h
+	"ObjectText.h"
+
+1517145802 source:c:\users\edd\git\evolution\src\scrolltext.cpp
+	"ScrollText.h"
+	"Display.h"
+
+1517136630 c:\users\edd\git\evolution\include\objecttext.h
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"Object.h"
+
+1517146184 source:c:\users\edd\git\evolution\src\objecttext.cpp
+	"ObjectText.h"
+	<vector>
+	<sstream>
+	<iterator>
+	<string>
+	"Color.h"
+	"Display.h"
+
+1518529639 c:\users\edd\git\evolution\include\building.h
+	<SDL2/SDL.h>
+	<string>
+
+1518529623 source:c:\users\edd\git\evolution\src\building.cpp
+	"Building.h"
+	"Display.h"
+	"TextureCollection.h"
+
+1517747323 c:\users\edd\git\evolution\include\focusable.h
+
+1517747439 source:c:\users\edd\git\evolution\src\focusable.cpp
+	"Focusable.h"
+
+1518107082 c:\users\edd\git\evolution\include\unit.h
+	<SDL2/SDL.h>
+
+1518106696 source:c:\users\edd\git\evolution\src\unit.cpp
+	"Unit.h"
+	"Display.h"
+
+1518178140 c:\users\edd\git\evolution\include\soundcollection.h
+	<SDL2/SDL_mixer.h>
+	<string>
+	<map>
+
+1518178188 source:c:\users\edd\git\evolution\src\soundcollection.cpp
+	"SoundCollection.h"
+
